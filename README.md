@@ -1,2 +1,2 @@
-# Desafio de Prejeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+# Estudos de Programação
+Repositório criado para colocar meus estudos de progrmação
